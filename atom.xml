@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Toothpick's blog]]></title>
-  <subtitle><![CDATA[牙-_签]]></subtitle>
+  <title><![CDATA[Toothpick]]></title>
+  <subtitle><![CDATA[言有物，行有恒]]></subtitle>
   <link href="/atom.xml" rel="self"/>
-  <link href="http://toothpick2012.github.io//"/>
-  <updated>2014-03-14T03:19:29.815Z</updated>
-  <id>http://toothpick2012.github.io//</id>
+  <link href="http://www.qiumingxing.cn/"/>
+  <updated>2014-03-14T04:39:20.847Z</updated>
+  <id>http://www.qiumingxing.cn/</id>
   
   <author>
     <name><![CDATA[toothpickv]]></name>
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[rencai]]></title>
-    <link href="http://toothpick2012.github.io/2014/03/14/%E3%80%8A%E9%A9%AC%E8%AF%B4%E3%80%8B%E9%9F%A9%E6%84%88/"/>
-    <id>http://toothpick2012.github.io/2014/03/14/《马说》韩愈/</id>
+    <link href="http://www.qiumingxing.cn/2014/03/14/%E3%80%8A%E9%A9%AC%E8%AF%B4%E3%80%8B%E9%9F%A9%E6%84%88/"/>
+    <id>http://www.qiumingxing.cn/2014/03/14/《马说》韩愈/</id>
     <published>2014-03-14T02:05:09.000Z</published>
     <updated>2014-03-14T02:05:57.000Z</updated>
     <content type="html"><![CDATA[<p>《马说》韩愈</p>
@@ -28,8 +28,8 @@
   
   <entry>
     <title><![CDATA[rencai]]></title>
-    <link href="http://toothpick2012.github.io/2014/03/14/%E3%80%8A%E5%8A%9D%E5%AD%A6%E3%80%8B/"/>
-    <id>http://toothpick2012.github.io/2014/03/14/《劝学》/</id>
+    <link href="http://www.qiumingxing.cn/2014/03/14/%E3%80%8A%E5%8A%9D%E5%AD%A6%E3%80%8B/"/>
+    <id>http://www.qiumingxing.cn/2014/03/14/《劝学》/</id>
     <published>2014-03-14T02:05:09.000Z</published>
     <updated>2014-03-14T02:08:18.000Z</updated>
     <content type="html"><![CDATA[<p>君子曰：学不可以已。
