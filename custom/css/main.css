@@ -1,0 +1,66 @@
+/*! 
+// ===========================================================
+// 自定义样式
+// ===========================================================
+*/
+
+/*标题*/
+.entry-title,
+.entry-title a {
+  color: #FF810D;
+  font-size: 2.5rem;
+}
+/*标题模仿mac dock跳动*/
+@-webkit-keyframes envelope_top { 
+	0%{-webkit-transform:translateY(0px);}
+	10%{-webkit-transform:translateY(-5px);} 
+	20%{-webkit-transform:translateY(-10px);} 
+	30%{-webkit-transform:translateY(-5px);} 
+	40%{-webkit-transform:translateY(0px);}
+	50%{-webkit-transform:translateY(-3px);} 
+	60%{-webkit-transform:translateY(-6px);} 
+	80%{-webkit-transform:translateY(0px);} 
+	90%{-webkit-transform:translateY(-1px);}
+	100%{-webkit-transform:translateY(0px);} 
+}
+.entry-title:hover{ -webkit-animation:envelope_top .7s linear .2s; } 
+
+/*时间*/
+.entry-meta 
+.entry-meta a {
+  color: #9E9CFF;
+}
+
+//首页文章时间轴
+#post-index article {
+	padding-top: 20px !important;
+}
+
+#post #ds-thread,
+#page #ds-thread {
+  padding: 10px 15px;
+  margin: 40px 2px 20px 2px;
+  background-color: #ffffff;
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+  box-shadow: 0 0 0 1px rgba(187, 187, 187, 0.1), 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+@media only screen and (min-width: 48em) {
+  #post #ds-thread,
+  #page #ds-thread {
+    padding: 20px 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (min-width: 62.5em) {
+  #post #ds-thread,
+  #page #ds-thread {
+    max-width: 800px;
+    padding: 50px 80px;
+    margin: 0 auto 30px auto;
+  }
+}
