@@ -26,6 +26,14 @@
     </url>
     
     <url>
+        <loc>/search.json</loc>
+    </url>
+    
+    <url>
+        <loc>/search.html</loc>
+    </url>
+    
+    <url>
         <loc>/sitemap.xml</loc>
     </url>
     
