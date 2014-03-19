@@ -4,6 +4,10 @@
 // ===========================================================
 */
 
+/*背景蒙版*/
+.entry-image:after {
+	background-color: rgba(34,34,34,0.1);
+}
 /*标题*/
 .entry-title,
 .entry-title a {
