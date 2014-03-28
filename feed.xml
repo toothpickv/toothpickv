@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://zh.qiumingxing.cn/feed.xml" />
 <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn" />
-<updated>2014-03-28T05:56:28-04:00</updated>
+<updated>2014-03-28T06:00:56-04:00</updated>
 <id>http://zh.qiumingxing.cn/</id>
 <author>
   <name>toothpickv</name>
@@ -492,69 +492,6 @@ a {text-decoration:none;color:#000;}
 
 &lt;p&gt;&lt;em&gt;本篇为观看学习曾仕强教授在名家论坛讲述《为官之道》的个人笔录&lt;/em&gt;&lt;/p&gt;
 
-&lt;div id=&quot;blueimp-video-carousel&quot; class=&quot;blueimp-gallery blueimp-gallery-controls blueimp-gallery-carousel&quot;&gt;
-    &lt;div class=&quot;slides&quot;&gt;&lt;/div&gt;
-    &lt;h3 class=&quot;title&quot;&gt;&lt;/h3&gt;
-    &lt;a class=&quot;prev&quot;&gt;‹&lt;/a&gt;
-    &lt;a class=&quot;next&quot;&gt;›&lt;/a&gt;
-    &lt;a class=&quot;play-pause&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-helper.js&quot;&gt;&lt;/script&gt;
-
-&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery.min.js&quot;&gt;&lt;/script&gt;
-
-&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery-fullscreen.js&quot;&gt;&lt;/script&gt;
-
-&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery-indicator.js&quot;&gt;&lt;/script&gt;
-
-&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery-video.js&quot;&gt;&lt;/script&gt;
-
-&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/jquery.blueimp-gallery.min.js&quot;&gt;&lt;/script&gt;
-
-&lt;script&gt;
-blueimp.Gallery([
-  {
-    &quot;type&quot;: &quot;video/mp4&quot;,
-    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第11-12讲&quot;,
-    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjM5NzMy/type/mp4/v.m3u8&quot;,
-    &quot;poster&quot;: &quot;http://g2.ykimg.com/1100641F464F911551E1B302C8646EDC9ECC59-EB0B-0420-128C-0A5A631C98CE&quot;
-  },
-  {
-    &quot;type&quot;: &quot;video/mp4&quot;,
-    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第09-10讲&quot;,
-    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjM5Nzc2/type/mp4/v.m3u8&quot;,
-    &quot;poster&quot;: &quot;http://g4.ykimg.com/1100641F464F9115F7DDE102C8646E69267DBC-807C-5DBF-7FF9-1B15F490ED7F&quot;
-  },
-  {
-    &quot;type&quot;: &quot;video/mp4&quot;,
-    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第07-08讲&quot;,
-    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjM5Nzgw/type/mp4/v.m3u8&quot;,
-    &quot;poster&quot;: &quot;http://g1.ykimg.com/1100641F464F9111B4E72A02C8646E9DFD8DA2-A592-0C15-07CA-4C232D1E2040&quot;
-  },
-  {
-    &quot;type&quot;: &quot;video/mp4&quot;,
-    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第05-06讲&quot;,
-    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjQwMTAw/type/mp4/v.m3u8&quot;,
-    &quot;poster&quot;: &quot;http://g3.ykimg.com/1100641F464F910E86B4D602C8646E4B62DF43-3D6C-A49A-6048-D8D0EACA0EC9&quot;
-  },
-  {
-    &quot;type&quot;: &quot;video/mp4&quot;,
-    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第03-04讲&quot;,
-    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjQwMTc2/type/mp4/v.m3u8&quot;,
-    &quot;poster&quot;: &quot;http://g1.ykimg.com/1100641F464F910E58A8A102C8646E8DA36930-75B4-937F-2BCE-8C58982EA807&quot;
-  },
-  {
-    &quot;type&quot;: &quot;video/mp4&quot;,
-    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第01-02讲&quot;,
-    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjQwMjEy/type/mp4/v.m3u8&quot;,
-    &quot;poster&quot;: &quot;http://g3.ykimg.com/1100641F46501A617EBF61077D7DDF18A1A1BC-51AA-B73B-62FC-BA01A0279E48&quot;
-  }
-], {
-    container: &#39;#blueimp-video-carousel&#39;,
-    carousel: true
-});
-&lt;/script&gt;
-
 &lt;h1 id=&quot;section&quot;&gt;目录&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;p&gt;1.&lt;a href=&quot;#1&quot;&gt;学而优则仕&lt;/a&gt;&lt;/p&gt;
@@ -848,6 +785,74 @@ blueimp.Gallery([
 &lt;div&gt;公开：能公开的公开，不能公开的保密。&lt;/div&gt;
 &lt;div&gt;&lt;br /&gt;&lt;/div&gt;
 &lt;div&gt; 君子有大道，必忠信以得之，骄泰以失之。——《大学&lt;span style=&quot;-evernote-last-insertion-point:true;&quot; /&gt;》&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;讲座&lt;/h1&gt;
+
+&lt;div id=&quot;blueimp-video-carousel&quot; class=&quot;blueimp-gallery blueimp-gallery-controls blueimp-gallery-carousel&quot;&gt;
+    &lt;div class=&quot;slides&quot;&gt;&lt;/div&gt;
+    &lt;h3 class=&quot;title&quot;&gt;&lt;/h3&gt;
+    &lt;a class=&quot;prev&quot;&gt;‹&lt;/a&gt;
+    &lt;a class=&quot;next&quot;&gt;›&lt;/a&gt;
+    &lt;a class=&quot;play-pause&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-helper.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery-fullscreen.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery-indicator.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery-video.js&quot;&gt;&lt;/script&gt;
+
+&lt;script src=&quot;http://zh.qiumingxing.cn/custom/Gallery/js/jquery.blueimp-gallery.min.js&quot;&gt;&lt;/script&gt;
+
+&lt;script&gt;
+blueimp.Gallery([
+  {
+    &quot;type&quot;: &quot;video/mp4&quot;,
+    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第11-12讲&quot;,
+    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjM5NzMy/type/mp4/v.m3u8&quot;,
+    &quot;poster&quot;: &quot;http://g2.ykimg.com/1100641F464F911551E1B302C8646EDC9ECC59-EB0B-0420-128C-0A5A631C98CE&quot;
+  },
+  {
+    &quot;type&quot;: &quot;video/mp4&quot;,
+    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第09-10讲&quot;,
+    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjM5Nzc2/type/mp4/v.m3u8&quot;,
+    &quot;poster&quot;: &quot;http://g4.ykimg.com/1100641F464F9115F7DDE102C8646E69267DBC-807C-5DBF-7FF9-1B15F490ED7F&quot;
+  },
+  {
+    &quot;type&quot;: &quot;video/mp4&quot;,
+    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第07-08讲&quot;,
+    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjM5Nzgw/type/mp4/v.m3u8&quot;,
+    &quot;poster&quot;: &quot;http://g1.ykimg.com/1100641F464F9111B4E72A02C8646E9DFD8DA2-A592-0C15-07CA-4C232D1E2040&quot;
+  },
+  {
+    &quot;type&quot;: &quot;video/mp4&quot;,
+    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第05-06讲&quot;,
+    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjQwMTAw/type/mp4/v.m3u8&quot;,
+    &quot;poster&quot;: &quot;http://g3.ykimg.com/1100641F464F910E86B4D602C8646E4B62DF43-3D6C-A49A-6048-D8D0EACA0EC9&quot;
+  },
+  {
+    &quot;type&quot;: &quot;video/mp4&quot;,
+    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第03-04讲&quot;,
+    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjQwMTc2/type/mp4/v.m3u8&quot;,
+    &quot;poster&quot;: &quot;http://g1.ykimg.com/1100641F464F910E58A8A102C8646E8DA36930-75B4-937F-2BCE-8C58982EA807&quot;
+  },
+  {
+    &quot;type&quot;: &quot;video/mp4&quot;,
+    &quot;title&quot;: &quot;[名家论坛]曾仕强《为官之道》第01-02讲&quot;,
+    &quot;href&quot;: &quot;http://v.youku.com/player/getRealM3U8/vid/XNjg4MjQwMjEy/type/mp4/v.m3u8&quot;,
+    &quot;poster&quot;: &quot;http://g3.ykimg.com/1100641F46501A617EBF61077D7DDF18A1A1BC-51AA-B73B-62FC-BA01A0279E48&quot;
+  }
+], {
+    container: &#39;#blueimp-video-carousel&#39;,
+    carousel: true
+});
+&lt;/script&gt;
+
 
   &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E5%A4%A7%E5%AD%A6/%E3%80%8A%E5%A4%A7%E5%AD%A6%E3%80%8B%E4%B8%BA%E5%AE%98%E4%B9%8B%E9%81%93/&quot;&gt;《大学》为官之道&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on March 16, 2014.&lt;/p&gt;</content>
 </entry>
