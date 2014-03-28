@@ -109,3 +109,8 @@
 	margin-left: 0.5em;
 	font-style:italic;
 }
+
+/*百度分享样式*/
+.bdshare-slide-button-box {
+	top: 50% !important;
+}
