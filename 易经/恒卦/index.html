@@ -65,6 +65,10 @@
 <link rel="stylesheet" href="http://zh.qiumingxing.cn/custom/Gallery/css/blueimp-gallery-video.css">
 
 
+<script src="http://zh.qiumingxing.cn/custom/js/sea.js"></script>
+<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+<script src="http://zh.qiumingxing.cn/custom/js/gallery.js"></script>
+
 </head>
 
 <body id="post" class="feature">
@@ -335,27 +339,9 @@
 <hr />
 
 <h1 id="section-26">讲座</h1>
-<div id="blueimp-video-carousel" class="blueimp-gallery blueimp-gallery-controls blueimp-gallery-carousel">
-    <div class="slides"></div>
-    <h3 class="title"></h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="play-pause"></a>
-</div>
-<script src="http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-helper.js"></script>
-
-<script src="http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery.min.js"></script>
-
-<script src="http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery-fullscreen.js"></script>
-
-<script src="http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery-indicator.js"></script>
-
-<script src="http://zh.qiumingxing.cn/custom/Gallery/js/blueimp-gallery-video.js"></script>
-
-<script src="http://zh.qiumingxing.cn/custom/Gallery/js/jquery.blueimp-gallery.min.js"></script>
-
+<div id="gallery"></div>
 <script>
-blueimp.Gallery([
+$('#gallery').setGallery([
   {
     "type": "video/mp4",
     "title": "《易经的智慧》71 致恒之道（曾仕强）",
@@ -368,10 +354,7 @@ blueimp.Gallery([
     "href": "http://v.youku.com/player/getRealM3U8/vid/XNDUxNjU5NzEy/type/mp4/v.m3u8",
     "poster": "http://g2.ykimg.com/1100641F465057579561CC04B3E32673060486-326D-FF5E-D09C-E337C83894BD"
   }
-], {
-    container: '#blueimp-video-carousel',
-    carousel: true
-});
+]);
 </script>
 
 
@@ -457,7 +440,6 @@ document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3
   </footer>
 </div><!-- /.footer-wrapper -->
 
-<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
 <script src="http://zh.qiumingxing.cn/assets/js/scripts.min.js"></script>
 
 	        
