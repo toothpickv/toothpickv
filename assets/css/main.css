@@ -276,7 +276,7 @@ a {
 }
 
 body {
-  font-family: 'Lato', Calibri, Arial, sans-serif;
+/*  font-family: 'Lato', Calibri, Arial, sans-serif;*/
   color: #222222;
 }
 
@@ -286,7 +286,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', Calibri, Arial, sans-serif;
+/*  font-family: 'Lato', Calibri, Arial, sans-serif;*/
 }
 
 h1 {
@@ -347,7 +347,7 @@ figcaption {
 
 blockquote {
   padding-left: 20px;
-  font-family: serif;
+/*  font-family: serif;*/
   font-style: italic;
   border-left: 8px solid #bbbbbb;
 }
@@ -373,7 +373,7 @@ code,
 kbd,
 samp,
 pre {
-  font-family: monospace;
+/*  font-family: monospace;*/
 }
 
 p code,
@@ -674,7 +674,7 @@ pre::-webkit-scrollbar-thumb:horizontal {
 
 .CodeRay {
   margin-bottom: 1.5em;
-  font-family: monospace;
+/*  font-family: monospace;*/
   font-size: 12px;
   font-size: 0.75rem;
   line-height: 2.1667;
@@ -1532,7 +1532,7 @@ svg:not(:root) {
 .dl-menuwrapper li > a:not(:only-child):after {
   position: absolute;
   top: 0;
-  font-family: 'fontawesome';
+/*  font-family: 'fontawesome';*/
   -webkit-font-smoothing: antialiased;
   line-height: 50px;
   color: #ffffff;
@@ -1866,7 +1866,7 @@ All this is done for any sub-level being entered.
  * -------------------------- */
 
 @font-face {
-  font-family: 'FontAwesome';
+/*  font-family: 'FontAwesome';*/
   font-style: normal;
   font-weight: normal;
   src: url('//netdna.bootstrapcdn.com/font-awesome/3.2.0/font/fontawesome-webfont.eot?v=3.2.0');
@@ -1879,7 +1879,7 @@ All this is done for any sub-level being entered.
 [class^="icon-"],
 [class*=" icon-"] {
   *margin-right: .3em;
-  font-family: FontAwesome;
+/*  font-family: FontAwesome;*/
   -webkit-font-smoothing: antialiased;
   font-style: normal;
   font-weight: normal;
