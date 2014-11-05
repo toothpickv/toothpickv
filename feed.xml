@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Toothpick</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://zh.qiumingxing.cn/feed.xml" />
-<link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn" />
-<updated>2014-10-27T05:25:55-04:00</updated>
-<id>http://zh.qiumingxing.cn/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2014-11-05T07:05:11-05:00</updated>
+<id>/</id>
 <author>
   <name>toothpickv</name>
-  <uri>http://zh.qiumingxing.cn/</uri>
+  <uri>/</uri>
   <email>toothpick.v@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[士而怀居，不足以为士矣]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E8%80%8C%E6%80%80%E5%B1%85%EF%BC%8C%E4%B8%8D%E8%B6%B3%E4%BB%A5%E4%B8%BA%E5%A3%AB%E7%9F%A3/" />
-  <id>http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/士而怀居，不足以为士矣</id>
+ <link rel="alternate" type="text/html" href="/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E8%80%8C%E6%80%80%E5%B1%85%EF%BC%8C%E4%B8%8D%E8%B6%B3%E4%BB%A5%E4%B8%BA%E5%A3%AB%E7%9F%A3/" />
+  <id>/%E8%AE%BA%E8%AF%AD/士而怀居，不足以为士矣</id>
   <published>2014-10-27T00:00:00-04:00</published>
   <updated>2014-10-27T00:00:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;h3 id=&quot;section&quot;&gt;子曰：“士而怀居，不足以为士矣！”&lt;/h3&gt;
@@ -45,19 +45,19 @@
 &lt;p&gt;&lt;img src=&quot;http://img3.douban.com/lpic/s6069595.jpg&quot; alt=&quot;论语的生活智慧书面&quot; /&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E8%80%8C%E6%80%80%E5%B1%85%EF%BC%8C%E4%B8%8D%E8%B6%B3%E4%BB%A5%E4%B8%BA%E5%A3%AB%E7%9F%A3/&quot;&gt;士而怀居，不足以为士矣&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on October 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E8%80%8C%E6%80%80%E5%B1%85%EF%BC%8C%E4%B8%8D%E8%B6%B3%E4%BB%A5%E4%B8%BA%E5%A3%AB%E7%9F%A3/&quot;&gt;士而怀居，不足以为士矣&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on October 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[譬如为山，未成一篑]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E8%AD%AC%E5%A6%82%E4%B8%BA%E5%B1%B1%EF%BC%8C%E6%9C%AA%E6%88%90%E4%B8%80%E7%AF%91/" />
-  <id>http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/譬如为山，未成一篑</id>
+ <link rel="alternate" type="text/html" href="/%E8%AE%BA%E8%AF%AD/%E8%AD%AC%E5%A6%82%E4%B8%BA%E5%B1%B1%EF%BC%8C%E6%9C%AA%E6%88%90%E4%B8%80%E7%AF%91/" />
+  <id>/%E8%AE%BA%E8%AF%AD/譬如为山，未成一篑</id>
   <published>2014-06-08T00:00:00-04:00</published>
   <updated>2014-06-08T00:00:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;h3 id=&quot;ku&quot;&gt;子曰：“譬如为山，未成一篑（kuì）；止，吾止也。譬如平地，虽覆一篑，进，吾往也。”&lt;/h3&gt;
@@ -83,19 +83,19 @@
 &lt;p&gt;&lt;img src=&quot;http://img3.douban.com/lpic/s6069595.jpg&quot; alt=&quot;论语的生活智慧书面&quot; /&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E8%AD%AC%E5%A6%82%E4%B8%BA%E5%B1%B1%EF%BC%8C%E6%9C%AA%E6%88%90%E4%B8%80%E7%AF%91/&quot;&gt;譬如为山，未成一篑&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on June 08, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E8%AE%BA%E8%AF%AD/%E8%AD%AC%E5%A6%82%E4%B8%BA%E5%B1%B1%EF%BC%8C%E6%9C%AA%E6%88%90%E4%B8%80%E7%AF%91/&quot;&gt;譬如为山，未成一篑&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on June 08, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[民可使由之，不可使知之]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E6%B0%91%E5%8F%AF%E4%BD%BF%E7%94%B1%E4%B9%8B%EF%BC%8C%E4%B8%8D%E5%8F%AF%E4%BD%BF%E7%9F%A5%E4%B9%8B/" />
-  <id>http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/民可使由之，不可使知之</id>
+ <link rel="alternate" type="text/html" href="/%E8%AE%BA%E8%AF%AD/%E6%B0%91%E5%8F%AF%E4%BD%BF%E7%94%B1%E4%B9%8B%EF%BC%8C%E4%B8%8D%E5%8F%AF%E4%BD%BF%E7%9F%A5%E4%B9%8B/" />
+  <id>/%E8%AE%BA%E8%AF%AD/民可使由之，不可使知之</id>
   <published>2014-05-25T00:00:00-04:00</published>
   <updated>2014-05-25T00:00:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;h3 id=&quot;section&quot;&gt;子曰：“民可使由之，不可使知之。”&lt;/h3&gt;
@@ -126,19 +126,19 @@
 &lt;p&gt;&lt;img src=&quot;http://img3.douban.com/lpic/s6069595.jpg&quot; alt=&quot;论语的生活智慧书面&quot; /&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E6%B0%91%E5%8F%AF%E4%BD%BF%E7%94%B1%E4%B9%8B%EF%BC%8C%E4%B8%8D%E5%8F%AF%E4%BD%BF%E7%9F%A5%E4%B9%8B/&quot;&gt;民可使由之，不可使知之&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on May 25, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E8%AE%BA%E8%AF%AD/%E6%B0%91%E5%8F%AF%E4%BD%BF%E7%94%B1%E4%B9%8B%EF%BC%8C%E4%B8%8D%E5%8F%AF%E4%BD%BF%E7%9F%A5%E4%B9%8B/&quot;&gt;民可使由之，不可使知之&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on May 25, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[士不可以不弘毅，任重而道远]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E4%B8%8D%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%BC%98%E6%AF%85%EF%BC%8C%E4%BB%BB%E9%87%8D%E8%80%8C%E9%81%93%E8%BF%9C/" />
-  <id>http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/士不可以不弘毅，任重而道远</id>
+ <link rel="alternate" type="text/html" href="/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E4%B8%8D%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%BC%98%E6%AF%85%EF%BC%8C%E4%BB%BB%E9%87%8D%E8%80%8C%E9%81%93%E8%BF%9C/" />
+  <id>/%E8%AE%BA%E8%AF%AD/士不可以不弘毅，任重而道远</id>
   <published>2014-05-25T00:00:00-04:00</published>
   <updated>2014-05-25T00:00:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;h3 id=&quot;section&quot;&gt;曾子曰：“士不可以不弘毅，任重而道远。仁以为己任，不亦重乎！死而后已，不亦远乎！”&lt;/h3&gt;
@@ -165,19 +165,19 @@
 &lt;p&gt;&lt;img src=&quot;http://img3.douban.com/lpic/s6069595.jpg&quot; alt=&quot;论语的生活智慧书面&quot; /&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E4%B8%8D%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%BC%98%E6%AF%85%EF%BC%8C%E4%BB%BB%E9%87%8D%E8%80%8C%E9%81%93%E8%BF%9C/&quot;&gt;士不可以不弘毅，任重而道远&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on May 25, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E4%B8%8D%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%BC%98%E6%AF%85%EF%BC%8C%E4%BB%BB%E9%87%8D%E8%80%8C%E9%81%93%E8%BF%9C/&quot;&gt;士不可以不弘毅，任重而道远&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on May 25, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[中华文化的特质]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E4%B8%AD%E9%81%93/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E7%9A%84%E7%89%B9%E8%B4%A8/" />
-  <id>http://zh.qiumingxing.cn/%E4%B8%AD%E9%81%93/中华文化的特质</id>
+ <link rel="alternate" type="text/html" href="/%E4%B8%AD%E9%81%93/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E7%9A%84%E7%89%B9%E8%B4%A8/" />
+  <id>/%E4%B8%AD%E9%81%93/中华文化的特质</id>
   <published>2014-05-07T16:26:00-04:00</published>
   <updated>2014-05-07T16:26:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;h2 id=&quot;section&quot;&gt;第一集　大哉中华&lt;/h2&gt;
@@ -629,19 +629,19 @@ $(&#39;#gallery&#39;).setGallery([
 &lt;/script&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E4%B8%AD%E9%81%93/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E7%9A%84%E7%89%B9%E8%B4%A8/&quot;&gt;中华文化的特质&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on May 07, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E4%B8%AD%E9%81%93/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E7%9A%84%E7%89%B9%E8%B4%A8/&quot;&gt;中华文化的特质&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on May 07, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[艮卦]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/%E8%89%AE%E5%8D%A6/" />
-  <id>http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/艮卦</id>
+ <link rel="alternate" type="text/html" href="/%E6%98%93%E7%BB%8F/%E8%89%AE%E5%8D%A6/" />
+  <id>/%E6%98%93%E7%BB%8F/艮卦</id>
   <published>2014-04-27T00:00:00-04:00</published>
   <updated>2014-04-27T00:00:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;h2 id=&quot;section&quot;&gt;艮其背，&lt;/h2&gt;
@@ -816,19 +816,19 @@ $(&#39;#gallery&#39;).setGallery([
 &lt;p&gt;&lt;img src=&quot;http://qiumingxing-cn.qiniudn.com/genbeidui.jpg&quot; alt=&quot;背对欲望&quot; /&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/%E8%89%AE%E5%8D%A6/&quot;&gt;艮卦&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on April 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E6%98%93%E7%BB%8F/%E8%89%AE%E5%8D%A6/&quot;&gt;艮卦&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on April 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[亡而为有，虚而为盈，约而为泰，难乎有恒]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E4%BA%A1%E8%80%8C%E4%B8%BA%E6%9C%89%EF%BC%8C%E8%99%9A%E8%80%8C%E4%B8%BA%E7%9B%88%EF%BC%8C%E7%BA%A6%E8%80%8C%E4%B8%BA%E6%B3%B0%EF%BC%8C%E9%9A%BE%E4%B9%8E%E6%9C%89%E6%81%92/" />
-  <id>http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/亡而为有，虚而为盈，约而为泰，难乎有恒</id>
+ <link rel="alternate" type="text/html" href="/%E8%AE%BA%E8%AF%AD/%E4%BA%A1%E8%80%8C%E4%B8%BA%E6%9C%89%EF%BC%8C%E8%99%9A%E8%80%8C%E4%B8%BA%E7%9B%88%EF%BC%8C%E7%BA%A6%E8%80%8C%E4%B8%BA%E6%B3%B0%EF%BC%8C%E9%9A%BE%E4%B9%8E%E6%9C%89%E6%81%92/" />
+  <id>/%E8%AE%BA%E8%AF%AD/亡而为有，虚而为盈，约而为泰，难乎有恒</id>
   <published>2014-04-14T00:00:00-04:00</published>
   <updated>2014-04-14T00:00:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;h4 id=&quot;section&quot;&gt;子曰：“圣人，吾不得而见之矣！得见君子者，斯可矣。”子曰：“善人，吾不得而见之矣！得见有恒者，斯可矣。亡而为有，虚而为盈，约而为泰，难乎有恒矣！”——述而（《论语的生活智慧》203页）&lt;/h4&gt;
@@ -852,19 +852,19 @@ $(&#39;#gallery&#39;).setGallery([
 &lt;p&gt;&lt;img src=&quot;http://img3.douban.com/lpic/s6069595.jpg&quot; alt=&quot;论语的生活智慧书面&quot; /&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E4%BA%A1%E8%80%8C%E4%B8%BA%E6%9C%89%EF%BC%8C%E8%99%9A%E8%80%8C%E4%B8%BA%E7%9B%88%EF%BC%8C%E7%BA%A6%E8%80%8C%E4%B8%BA%E6%B3%B0%EF%BC%8C%E9%9A%BE%E4%B9%8E%E6%9C%89%E6%81%92/&quot;&gt;亡而为有，虚而为盈，约而为泰，难乎有恒&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on April 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E8%AE%BA%E8%AF%AD/%E4%BA%A1%E8%80%8C%E4%B8%BA%E6%9C%89%EF%BC%8C%E8%99%9A%E8%80%8C%E4%B8%BA%E7%9B%88%EF%BC%8C%E7%BA%A6%E8%80%8C%E4%B8%BA%E6%B3%B0%EF%BC%8C%E9%9A%BE%E4%B9%8E%E6%9C%89%E6%81%92/&quot;&gt;亡而为有，虚而为盈，约而为泰，难乎有恒&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on April 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[爱情与婚姻-曾仕强]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E4%B8%AD%E9%81%93/%E7%88%B1%E6%83%85%E4%B8%8E%E5%A9%9A%E5%A7%BB-%E6%9B%BE%E4%BB%95%E5%BC%BA/" />
-  <id>http://zh.qiumingxing.cn/%E4%B8%AD%E9%81%93/爱情与婚姻-曾仕强</id>
+ <link rel="alternate" type="text/html" href="/%E4%B8%AD%E9%81%93/%E7%88%B1%E6%83%85%E4%B8%8E%E5%A9%9A%E5%A7%BB-%E6%9B%BE%E4%BB%95%E5%BC%BA/" />
+  <id>/%E4%B8%AD%E9%81%93/爱情与婚姻-曾仕强</id>
   <published>2014-04-03T17:26:00-04:00</published>
   <updated>2014-04-03T17:26:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;爱情与婚姻是赐予人类的礼物，但那么多人都体会不到其中的快乐，或是要经历千辛万苦去寻找，原因是他们本是有灵性的统一体，需要双方的智慧和修为来学习与揣摩。&lt;/p&gt;
@@ -1052,19 +1052,19 @@ $(&#39;#gallery&#39;).setGallery([
 &lt;/script&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E4%B8%AD%E9%81%93/%E7%88%B1%E6%83%85%E4%B8%8E%E5%A9%9A%E5%A7%BB-%E6%9B%BE%E4%BB%95%E5%BC%BA/&quot;&gt;爱情与婚姻-曾仕强&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on April 03, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E4%B8%AD%E9%81%93/%E7%88%B1%E6%83%85%E4%B8%8E%E5%A9%9A%E5%A7%BB-%E6%9B%BE%E4%BB%95%E5%BC%BA/&quot;&gt;爱情与婚姻-曾仕强&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on April 03, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[恒卦]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/%E6%81%92%E5%8D%A6/" />
-  <id>http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/恒卦</id>
+ <link rel="alternate" type="text/html" href="/%E6%98%93%E7%BB%8F/%E6%81%92%E5%8D%A6/" />
+  <id>/%E6%98%93%E7%BB%8F/恒卦</id>
   <published>2014-03-27T00:00:00-04:00</published>
   <updated>2014-03-27T00:00:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;h2 id=&quot;section&quot;&gt;恒，亨，无咎，利貞。&lt;/h2&gt;
@@ -1280,19 +1280,19 @@ $(&#39;#gallery&#39;).setGallery([
 &lt;/script&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/%E6%81%92%E5%8D%A6/&quot;&gt;恒卦&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on March 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E6%98%93%E7%BB%8F/%E6%81%92%E5%8D%A6/&quot;&gt;恒卦&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on March 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[咸卦]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/%E5%92%B8%E5%8D%A6/" />
-  <id>http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/咸卦</id>
+ <link rel="alternate" type="text/html" href="/%E6%98%93%E7%BB%8F/%E5%92%B8%E5%8D%A6/" />
+  <id>/%E6%98%93%E7%BB%8F/咸卦</id>
   <published>2014-03-23T00:00:00-04:00</published>
   <updated>2014-03-23T00:00:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;青年男子随个不善钟情，妙龄少女随个不善怀春。
@@ -1471,19 +1471,19 @@ $(&#39;#gallery&#39;).setGallery([
 &lt;/script&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/%E5%92%B8%E5%8D%A6/&quot;&gt;咸卦&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on March 23, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E6%98%93%E7%BB%8F/%E5%92%B8%E5%8D%A6/&quot;&gt;咸卦&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on March 23, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[《大学》为官之道]]></title>
- <link rel="alternate" type="text/html" href="http://zh.qiumingxing.cn/%E5%A4%A7%E5%AD%A6/%E3%80%8A%E5%A4%A7%E5%AD%A6%E3%80%8B%E4%B8%BA%E5%AE%98%E4%B9%8B%E9%81%93/" />
-  <id>http://zh.qiumingxing.cn/%E5%A4%A7%E5%AD%A6/《大学》为官之道</id>
+ <link rel="alternate" type="text/html" href="/%E5%A4%A7%E5%AD%A6/%E3%80%8A%E5%A4%A7%E5%AD%A6%E3%80%8B%E4%B8%BA%E5%AE%98%E4%B9%8B%E9%81%93/" />
+  <id>/%E5%A4%A7%E5%AD%A6/《大学》为官之道</id>
   <published>2014-03-16T00:00:00-04:00</published>
   <updated>2014-03-16T00:00:00-04:00</updated>
   <author>
     <name>toothpickv</name>
-    <uri>http://zh.qiumingxing.cn</uri>
+    <uri></uri>
     <email>toothpick.v@gmail.com</email>
   </author>
   <content type="html">&lt;style&gt;
@@ -1832,7 +1832,7 @@ $(&#39;#gallery&#39;).setGallery([
 &lt;/script&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://zh.qiumingxing.cn/%E5%A4%A7%E5%AD%A6/%E3%80%8A%E5%A4%A7%E5%AD%A6%E3%80%8B%E4%B8%BA%E5%AE%98%E4%B9%8B%E9%81%93/&quot;&gt;《大学》为官之道&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;http://zh.qiumingxing.cn&quot;&gt;Toothpick&lt;/a&gt; on March 16, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;/%E5%A4%A7%E5%AD%A6/%E3%80%8A%E5%A4%A7%E5%AD%A6%E3%80%8B%E4%B8%BA%E5%AE%98%E4%B9%8B%E9%81%93/&quot;&gt;《大学》为官之道&lt;/a&gt; was originally published by toothpickv at &lt;a href=&quot;&quot;&gt;Toothpick&lt;/a&gt; on March 16, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

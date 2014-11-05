@@ -1,102 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://zh.qiumingxing.cn</loc>
+        <loc></loc>
     </url>
     
     
     <url>
-        <loc>http://zh.qiumingxing.cn/404.html</loc>
+        <loc>/404.html</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/about/</loc>
+        <loc>/about/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/feed.xml</loc>
+        <loc>/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/index.html</loc>
+        <loc>/index.html</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/posts/</loc>
+        <loc>/posts/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/search.json</loc>
+        <loc>/search.json</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/search.json.orig</loc>
+        <loc>/search.json.orig</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/search.html</loc>
+        <loc>/search.html</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/sitemap.xml</loc>
+        <loc>/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/tags/</loc>
+        <loc>/tags/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/page2/index.html</loc>
+        <loc>/page2/index.html</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/page3/index.html</loc>
+        <loc>/page3/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E8%80%8C%E6%80%80%E5%B1%85%EF%BC%8C%E4%B8%8D%E8%B6%B3%E4%BB%A5%E4%B8%BA%E5%A3%AB%E7%9F%A3/</loc>
+        <loc>/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E8%80%8C%E6%80%80%E5%B1%85%EF%BC%8C%E4%B8%8D%E8%B6%B3%E4%BB%A5%E4%B8%BA%E5%A3%AB%E7%9F%A3/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E8%AD%AC%E5%A6%82%E4%B8%BA%E5%B1%B1%EF%BC%8C%E6%9C%AA%E6%88%90%E4%B8%80%E7%AF%91/</loc>
+        <loc>/%E8%AE%BA%E8%AF%AD/%E8%AD%AC%E5%A6%82%E4%B8%BA%E5%B1%B1%EF%BC%8C%E6%9C%AA%E6%88%90%E4%B8%80%E7%AF%91/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E6%B0%91%E5%8F%AF%E4%BD%BF%E7%94%B1%E4%B9%8B%EF%BC%8C%E4%B8%8D%E5%8F%AF%E4%BD%BF%E7%9F%A5%E4%B9%8B/</loc>
+        <loc>/%E8%AE%BA%E8%AF%AD/%E6%B0%91%E5%8F%AF%E4%BD%BF%E7%94%B1%E4%B9%8B%EF%BC%8C%E4%B8%8D%E5%8F%AF%E4%BD%BF%E7%9F%A5%E4%B9%8B/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E4%B8%8D%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%BC%98%E6%AF%85%EF%BC%8C%E4%BB%BB%E9%87%8D%E8%80%8C%E9%81%93%E8%BF%9C/</loc>
+        <loc>/%E8%AE%BA%E8%AF%AD/%E5%A3%AB%E4%B8%8D%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%BC%98%E6%AF%85%EF%BC%8C%E4%BB%BB%E9%87%8D%E8%80%8C%E9%81%93%E8%BF%9C/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E4%B8%AD%E9%81%93/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E7%9A%84%E7%89%B9%E8%B4%A8/</loc>
+        <loc>/%E4%B8%AD%E9%81%93/%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E7%9A%84%E7%89%B9%E8%B4%A8/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/%E8%89%AE%E5%8D%A6/</loc>
+        <loc>/%E6%98%93%E7%BB%8F/%E8%89%AE%E5%8D%A6/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E8%AE%BA%E8%AF%AD/%E4%BA%A1%E8%80%8C%E4%B8%BA%E6%9C%89%EF%BC%8C%E8%99%9A%E8%80%8C%E4%B8%BA%E7%9B%88%EF%BC%8C%E7%BA%A6%E8%80%8C%E4%B8%BA%E6%B3%B0%EF%BC%8C%E9%9A%BE%E4%B9%8E%E6%9C%89%E6%81%92/</loc>
+        <loc>/%E8%AE%BA%E8%AF%AD/%E4%BA%A1%E8%80%8C%E4%B8%BA%E6%9C%89%EF%BC%8C%E8%99%9A%E8%80%8C%E4%B8%BA%E7%9B%88%EF%BC%8C%E7%BA%A6%E8%80%8C%E4%B8%BA%E6%B3%B0%EF%BC%8C%E9%9A%BE%E4%B9%8E%E6%9C%89%E6%81%92/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E4%B8%AD%E9%81%93/%E7%88%B1%E6%83%85%E4%B8%8E%E5%A9%9A%E5%A7%BB-%E6%9B%BE%E4%BB%95%E5%BC%BA/</loc>
+        <loc>/%E4%B8%AD%E9%81%93/%E7%88%B1%E6%83%85%E4%B8%8E%E5%A9%9A%E5%A7%BB-%E6%9B%BE%E4%BB%95%E5%BC%BA/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/%E6%81%92%E5%8D%A6/</loc>
+        <loc>/%E6%98%93%E7%BB%8F/%E6%81%92%E5%8D%A6/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E6%98%93%E7%BB%8F/%E5%92%B8%E5%8D%A6/</loc>
+        <loc>/%E6%98%93%E7%BB%8F/%E5%92%B8%E5%8D%A6/</loc>
     </url>
     
     <url>
-        <loc>http://zh.qiumingxing.cn/%E5%A4%A7%E5%AD%A6/%E3%80%8A%E5%A4%A7%E5%AD%A6%E3%80%8B%E4%B8%BA%E5%AE%98%E4%B9%8B%E9%81%93/</loc>
+        <loc>/%E5%A4%A7%E5%AD%A6/%E3%80%8A%E5%A4%A7%E5%AD%A6%E3%80%8B%E4%B8%BA%E5%AE%98%E4%B9%8B%E9%81%93/</loc>
     </url>
     
 </urlset>
